@@ -20,7 +20,7 @@ sub set_trap {
             ($package, $filename, $line) = caller;
         }
         # run the original function
-        &$code;
+        &$code($@);
     };
 }
 
