@@ -41,7 +41,7 @@ __END__
 
 =head1 EXPERIMENTAL
 
-B<This module is experimental, and possible jsut mental>
+B<This module is experimental, and possibly jsut mental>
 
 =head1 DESCRIPTION
 
