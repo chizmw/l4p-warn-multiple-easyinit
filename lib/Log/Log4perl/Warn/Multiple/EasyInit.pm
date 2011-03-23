@@ -35,9 +35,9 @@ __END__
 
 =head1 SYNOPSIS
 
-  BEGIN {
-    use Log::Log4perl::Warn::Multiple::EasyInit;
-  }
+    BEGIN {
+      use Log::Log4perl::Warn::Multiple::EasyInit;
+    }
 
 =head1 EXPERIMENTAL
 

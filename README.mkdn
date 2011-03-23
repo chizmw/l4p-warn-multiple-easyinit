@@ -8,9 +8,9 @@ version 0.0.1
 
 # SYNOPSIS
 
-  BEGIN {
-    use Log::Log4perl::Warn::Multiple::EasyInit;
-  }
+    BEGIN {
+      use Log::Log4perl::Warn::Multiple::EasyInit;
+    }
 
 # DESCRIPTION
 
